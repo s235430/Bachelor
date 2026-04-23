@@ -7,12 +7,14 @@ This repository contains supporting materials for the experimental work describe
 Contains
 ---
 ## 📂 Repository Contents
+```text
 project-root/
-    │── protocol/        # Opentrons scripts & OT-protocol notebook
-    │── notebooks/        # Data analysis notebook 'Compiled characteristica'
-    │── data/             # Raw or processed data
-        results/          # Figures, outputs, plots
-
+├── protocol/           # Opentrons scripts & OT-protocol notebook
+│   └── scripts/        # Folder containing OT-2 scripts
+├── notebooks/          # Data analysis notebook 'Compiled characteristica'
+├── data/               # Raw data
+│   └── results/        # Figures, outputs, plots
+```
 
 ---
 ## 🧪 Protocol (Opentrons)
