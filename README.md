@@ -6,7 +6,7 @@ This repository contains supporting materials for the experimental work describe
 
 Contains
 ---
-## 📂 Repository Contents
+## Repository Contents
 ```text
 project-root/
 ├── protocol/           # Opentrons scripts & OT-protocol notebook
@@ -17,7 +17,7 @@ project-root/
 ```
 
 ---
-## 🧪 Protocol (Opentrons)
+## Protocol (Opentrons)
 
 - A detailed description about steps can be found within the OT-protocol notebook.  
 - **Requirements**: 
@@ -28,7 +28,7 @@ project-root/
     - 1-channel + 4-channel reservoirs.
 
 ---
-## 📊 Data Analysis
+## Data Analysis
 
 - This notebook contains the full pipeline for loading, processing, and visualizing experimental data.
 - Analysis and comparison of growth rates across strains within liquid and solid media is conducted with this notebook. 
@@ -45,5 +45,5 @@ Parameters included:
 
 ---
 
-## 👤 Author
+## Author
 - Rasmus Tøffner-Clausen
