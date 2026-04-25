@@ -1,0 +1,193 @@
+IBT #;well;media;plate;replicate
+IBT 115003;A1;TY;plate_1;1
+DH5 alpha;A2;TY;plate_1;1
+Blank;A3;TY;plate_1;1
+IBT 115000;A4;TY;plate_1;1
+IBT 115002;A5;LRE;plate_1;1
+DTU9.1;A6;LRE;plate_1;1
+DH5 alpha;A7;LRE;plate_1;1
+IBT 115004;A8;LRE;plate_1;1
+DH5 alpha;A9;CRE;plate_1;1
+IBT 115003;A10;CRE;plate_1;1
+Blank;A11;CRE;plate_1;1
+DTU9.1;A12;CRE;plate_1;1
+DTU9.1;B1;TY;plate_1;1
+IBT 115002;B2;TY;plate_1;1
+IBT 115004;B3;TY;plate_1;1
+IBT 115007;B4;TY;plate_1;1
+IBT 115007;B5;LRE;plate_1;1
+IBT 115000;B6;LRE;plate_1;1
+Blank;B7;LRE;plate_1;1
+IBT 115003;B8;LRE;plate_1;1
+IBT 115002;B9;CRE;plate_1;1
+IBT 115007;B10;CRE;plate_1;1
+IBT 115000;B11;CRE;plate_1;1
+IBT 115004;B12;CRE;plate_1;1
+IBT 115000;C1;TY;plate_1;2
+IBT 115003;C2;TY;plate_1;2
+DH5 alpha;C3;TY;plate_1;2
+DTU9.1;C4;TY;plate_1;2
+IBT 115004;C5;LRE;plate_1;2
+IBT 115002;C6;LRE;plate_1;2
+DTU9.1;C7;LRE;plate_1;2
+IBT 115007;C8;LRE;plate_1;2
+DTU9.1;C9;CRE;plate_1;2
+DH5 alpha;C10;CRE;plate_1;2
+IBT 115003;C11;CRE;plate_1;2
+IBT 115002;C12;CRE;plate_1;2
+IBT 115007;D1;TY;plate_1;2
+Blank;D2;TY;plate_1;2
+IBT 115002;D3;TY;plate_1;2
+IBT 115004;D4;TY;plate_1;2
+IBT 115003;D5;LRE;plate_1;2
+Blank;D6;LRE;plate_1;2
+IBT 115000;D7;LRE;plate_1;2
+DH5 alpha;D8;LRE;plate_1;2
+IBT 115004;D9;CRE;plate_1;2
+Blank;D10;CRE;plate_1;2
+IBT 115007;D11;CRE;plate_1;2
+IBT 115000;D12;CRE;plate_1;2
+IBT 115004;E1;TY;plate_1;3
+DTU9.1;E2;TY;plate_1;3
+IBT 115007;E3;TY;plate_1;3
+IBT 115002;E4;TY;plate_1;3
+DH5 alpha;E5;LRE;plate_1;3
+IBT 115003;E6;LRE;plate_1;3
+IBT 115007;E7;LRE;plate_1;3
+IBT 115002;E8;LRE;plate_1;3
+IBT 115000;E9;CRE;plate_1;3
+DTU9.1;E10;CRE;plate_1;3
+IBT 115002;E11;CRE;plate_1;3
+DH5 alpha;E12;CRE;plate_1;3
+DH5 alpha;F1;TY;plate_1;3
+IBT 115000;F2;TY;plate_1;3
+IBT 115003;F3;TY;plate_1;3
+Blank;F4;TY;plate_1;3
+Blank;F5;LRE;plate_1;3
+IBT 115004;F6;LRE;plate_1;3
+IBT 115002;F7;LRE;plate_1;4
+DTU9.1;F8;LRE;plate_1;3
+Blank;F9;CRE;plate_1;3
+IBT 115004;F10;CRE;plate_1;3
+DTU9.1;F11;CRE;plate_1;4
+IBT 115003;F12;CRE;plate_1;3
+IBT 115002;G1;TY;plate_1;4
+IBT 115004;G2;TY;plate_1;4
+DTU9.1;G3;TY;plate_1;4
+DH5 alpha;G4;TY;plate_1;4
+IBT 115000;G5;LRE;plate_1;3
+DH5 alpha;G6;LRE;plate_1;4
+IBT 115003;G7;LRE;plate_1;4
+Blank;G8;LRE;plate_1;4
+IBT 115007;G9;CRE;plate_1;3
+IBT 115000;G10;CRE;plate_1;4
+DH5 alpha;G11;CRE;plate_1;4
+Blank;G12;CRE;plate_1;4
+Blank;H1;TY;plate_1;4
+IBT 115007;H2;TY;plate_1;4
+IBT 115000;H3;TY;plate_1;4
+IBT 115003;H4;TY;plate_1;4
+DTU9.1;H5;LRE;plate_1;4
+IBT 115007;H6;LRE;plate_1;4
+IBT 115004;H7;LRE;plate_1;4
+IBT 115000;H8;LRE;plate_1;4
+IBT 115003;H9;CRE;plate_1;4
+IBT 115002;H10;CRE;plate_1;4
+IBT 115004;H11;CRE;plate_1;4
+IBT 115007;H12;CRE;plate_1;4
+IBT 115010;A1;TY;plate_2;1
+IBT 115008;A2;TY;plate_2;1
+IBT 115011;A3;TY;plate_2;1
+Blank;A4;TY;plate_2;1
+DTU9.1;A5;LRE;plate_2;1
+IBT 115009;A6;LRE;plate_2;1
+Blank;A7;LRE;plate_2;1
+IBT 115014;A8;LRE;plate_2;1
+IBT 115008;A9;CRE;plate_2;1
+DH5 alpha;A10;CRE;plate_2;1
+IBT 115010;A11;CRE;plate_2;1
+IBT 115011;A12;CRE;plate_2;1
+DH5 alpha;B1;TY;plate_2;1
+IBT 115014;B2;TY;plate_2;1
+Blank;B3;TY;plate_2;2
+IBT 115009;B4;TY;plate_2;1
+IBT 115010;B5;LRE;plate_2;1
+IBT 115011;B6;LRE;plate_2;1
+IBT 115008;B7;LRE;plate_2;1
+Blank;B8;LRE;plate_2;2
+DTU9.1;B9;CRE;plate_2;1
+IBT 115009;B10;CRE;plate_2;1
+Blank;B11;CRE;plate_2;1
+IBT 115011;B12;CRE;plate_2;2
+IBT 115009;C1;TY;plate_2;2
+Blank;C2;TY;plate_2;3
+DTU9.1;C3;TY;plate_2;1
+IBT 115014;C4;TY;plate_2;2
+Blank;C5;LRE;plate_2;3
+DH5 alpha;C6;LRE;plate_2;1
+IBT 115014;C7;LRE;plate_2;2
+DTU9.1;C8;LRE;plate_2;2
+Blank;C9;CRE;plate_2;2
+IBT 115014;C10;CRE;plate_2;1
+IBT 115009;C11;CRE;plate_2;2
+DH5 alpha;C12;CRE;plate_2;2
+IBT 115011;D1;TY;plate_2;2
+IBT 115010;D2;TY;plate_2;2
+DH5 alpha;D3;TY;plate_2;2
+IBT 115008;D4;TY;plate_2;2
+IBT 115009;D5;LRE;plate_2;2
+Blank;D6;LRE;plate_2;4
+IBT 115011;D7;LRE;plate_2;2
+IBT 115010;D8;LRE;plate_2;2
+IBT 115010;D9;CRE;plate_2;2
+Blank;D10;CRE;plate_2;3
+DTU9.1;D11;CRE;plate_2;2
+IBT 115014;D12;CRE;plate_2;2
+IBT 115008;E1;TY;plate_2;3
+DTU9.1;E2;TY;plate_2;2
+IBT 115009;E3;TY;plate_2;3
+IBT 115011;E4;TY;plate_2;3
+DH5 alpha;E5;LRE;plate_2;2
+IBT 115014;E6;LRE;plate_2;3
+DTU9.1;E7;LRE;plate_2;3
+IBT 115009;E8;LRE;plate_2;3
+IBT 115011;E9;CRE;plate_2;3
+IBT 115010;E10;CRE;plate_2;3
+IBT 115008;E11;CRE;plate_2;2
+DTU9.1;E12;CRE;plate_2;3
+Blank;F1;TY;plate_2;4
+IBT 115011;F2;TY;plate_2;4
+IBT 115014;F3;TY;plate_2;3
+DTU9.1;F4;TY;plate_2;3
+IBT 115008;F5;LRE;plate_2;2
+IBT 115010;F6;LRE;plate_2;3
+DH5 alpha;F7;LRE;plate_2;3
+IBT 115011;F8;LRE;plate_2;3
+DH5 alpha;F9;CRE;plate_2;3
+IBT 115011;F10;CRE;plate_2;4
+IBT 115014;F11;CRE;plate_2;3
+IBT 115009;F12;CRE;plate_2;3
+IBT 115014;G1;TY;plate_2;4
+IBT 115009;G2;TY;plate_2;4
+IBT 115008;G3;TY;plate_2;4
+IBT 115010;G4;TY;plate_2;3
+IBT 115014;G5;LRE;plate_2;4
+DTU9.1;G6;LRE;plate_2;4
+IBT 115009;G7;LRE;plate_2;4
+DH5 alpha;G8;LRE;plate_2;4
+IBT 115009;G9;CRE;plate_2;4
+DTU9.1;G10;CRE;plate_2;4
+DH5 alpha;G11;CRE;plate_2;4
+IBT 115008;G12;CRE;plate_2;2
+DTU9.1;H1;TY;plate_2;4
+DH5 alpha;H2;TY;plate_2;3
+IBT 115010;H3;TY;plate_2;4
+DH5 alpha;H4;TY;plate_2;4
+IBT 115011;H5;LRE;plate_2;4
+IBT 115008;H6;LRE;plate_2;3
+IBT 115010;H7;LRE;plate_2;4
+IBT 115008;H8;LRE;plate_2;4
+IBT 115014;H9;CRE;plate_2;4
+IBT 115008;H10;CRE;plate_2;2
+Blank;H11;CRE;plate_2;4
+IBT 115010;H12;CRE;plate_2;4
