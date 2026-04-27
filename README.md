@@ -1,4 +1,4 @@
-**In vitro growth characteristics of microbial biofertilizers as an indicator of rhizosphere colonization potential**
+# In vitro growth characteristics of microbial biofertilizers as an indicator of rhizosphere colonization potential
 
 This repository contains supporting materials for the experimental work described in the project. It includes Opentrons protocols, associated notebooks, and data analysis workflows used to generate the presented results.
 
