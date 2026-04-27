@@ -1,6 +1,4 @@
-# Bachelor
-**Project title:**
-*"In vitro growth characteristics of microbial biofertilizers as an indicator of rhizosphere colonization potential"*
+#*"In vitro growth characteristics of microbial biofertilizers as an indicator of rhizosphere colonization potential"*
 
 This repository contains supporting materials for the experimental work described in the project. It includes Opentrons protocols, associated notebooks, and data analysis workflows used to generate the presented results.
 
@@ -13,7 +11,7 @@ project-root/
 │   └── scripts/                # Folder containing OT-2 scripts
 ├── notebooks/                  # Data analysis notebook 'Compiled characteristica'
 ├── compiled_data/              # Raw data
-│   └── figures/                # Figures and plots
+│   └── figures/                # Space Figures and plots, run Compiled Characteristica to generate
 ├── Compiled Characteristica    # Data analysis notebook
 ├── helper_functions            # Data analysis functions
 ├── requirements.txt            # Requires libraries to run notebooks
